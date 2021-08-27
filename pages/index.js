@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen py-2 text-gray-900">
       <Head>
         <title>wojtek</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/lion.png" />
       </Head>
 
       <main className="flex flex-col items-center w-full flex-1 px-8 md:px-20 text-center font-mono">
