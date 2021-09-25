@@ -17,7 +17,7 @@ export default function Home() {
         <a target="_blank" href="https://twitter.com/wojtekwtf" className="underline mb-4">twitter</a>
         <a target="_blank" href="https://app.ens.domains/name/wojtek.eth" className="underline mb-10">ens</a>
         <figure className="mb-20">
-          <img src="/wojtek.png" className="w-4/5 mx-auto md:w-80" />
+          <img src="/wojtek.jpeg" className="w-4/5 mx-auto md:w-80" />
           <figcaption className="text-xs mt-2">this is me. photo taken at irl <a target="_blank" href="https://en.wikipedia.org/wiki/Masuria" className="underline">Mazury</a></figcaption>
         </figure>
       </main>
