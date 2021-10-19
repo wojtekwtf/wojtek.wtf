@@ -16,6 +16,13 @@ export default function Home() {
         <p className="mb-10">i used to live in berlin & warsaw, now im based in paris 🇫🇷</p>
         <a target="_blank" href="https://twitter.com/wojtekwtf" className="underline mb-4">twitter</a>
         <a target="_blank" href="https://app.ens.domains/name/wojtek.eth" className="underline mb-10">ens</a>
+        <h1 className="text-4xl md:text-3xl font-semibold mb-4">writing</h1>
+        <ul className="mb-10">
+          <li className="mb-4"><a target="_blank" className="underline" href="https://mirror.xyz/wojtek.eth/bFdyI5_3f0MoKSRIQ0piYdSOFJWQqbo-r8oTqjSQ9hI">connecting to web3 with Web3Modal, react & ethers.js</a></li>
+          <li className="mb-4"><a target="_blank" className="underline" href="https://twitter.com/wojtekwtf/status/1416887071382261766">why liquid super teams are cool</a></li>
+          <li className="mb-4"><a target="_blank" className="underline" href="https://twitter.com/wojtekwtf/status/1413154128964980739?s=21">anonymous identities are a significant part of the future</a></li>
+        </ul>
+        <h1 className="text-4xl md:text-3xl font-semibold mb-4">me</h1>
         <figure className="mb-20">
           <img src="/wojtek.jpeg" className="w-4/5 mx-auto md:w-80" />
           <figcaption className="text-xs mt-2">this is me. photo taken at irl <a target="_blank" href="https://en.wikipedia.org/wiki/Masuria" className="underline">Mazury</a></figcaption>
